@@ -1,0 +1,9 @@
+REPOSITORIO GITHUB
+
+Pendiente de publicar.
+
+URL:
+https://github.com/USUARIO/CIVITRACK
+
+Nota:
+Reemplace esta dirección por la URL real después de crear el repositorio en GitHub y ejecutar el primer push.
